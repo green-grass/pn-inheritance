@@ -1,0 +1,26 @@
+{
+  "name": "pn-inheritance",
+  "version": "1.0.0-rc1-final",
+  "description": "JavaScript OOP",
+  "main": ".dist/src/pn-inheritance.js",
+  "authors": [
+    "Minh Nguyen <mnguyen284@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "inheritance",
+    "OOP"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/green-grass/pn-inheritance",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
