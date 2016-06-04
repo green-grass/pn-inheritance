@@ -2,7 +2,7 @@
   "name": "pn-inheritance",
   "version": "1.0.0-rc1-final",
   "description": "PhantomNet JavaScript OOP",
-  "main": ".dist/pn-inheritance.js",
+  "main": "./dist/pn-inheritance.js",
   "authors": [
     "Minh Nguyen <mnguyen284@gmail.com>"
   ],
